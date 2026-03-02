@@ -1,4 +1,4 @@
-# Online Bidding System 🔨
+# Bidding System 🔨
 
 A robust, Java-based desktop application designed to facilitate secure and transparent online auctions. This project focuses on managing real-time bidding logic while ensuring data integrity through a structured MySQL backend.
 
