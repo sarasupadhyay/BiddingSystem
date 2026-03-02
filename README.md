@@ -6,10 +6,10 @@ A robust, Java-based desktop application designed to facilitate secure and trans
 The Online Bidding System provides a platform where users can register, list items for auction, and place bids. The system is designed to handle the "Bidding War" logic, ensuring that only higher bids are accepted and the highest bidder is tracked accurately.
 
 🛠️ Tech Stack:-
- Language: Java (JDK 8+)
- Database: MySQL
- Connectivity: JDBC (Java Database Connectivity)
- IDE: IntelliJ IDEA 
+1.Language: Java (JDK 8+)
+2.Database: MySQL
+3.Connectivity: JDBC (Java Database Connectivity)
+4.IDE: IntelliJ IDEA 
 
  ✨ Key Features
 User Authentication: Secure login and registration for bidders and sellers.
