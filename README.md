@@ -1,17 +1,17 @@
-# Bidding System 🔨
+# Bidding System 
 
 A robust, Java-based desktop application designed to facilitate secure and transparent online auctions. This project focuses on managing real-time bidding logic while ensuring data integrity through a structured MySQL backend.
 
  Overview
 The Online Bidding System provides a platform where users can register, list items for auction, and place bids. The system is designed to handle the "Bidding War" logic, ensuring that only higher bids are accepted and the highest bidder is tracked accurately.
 
-🛠️ Tech Stack:-
+ Tech Stack:-
 1.Language: Java (JDK 8+)
 2.Database: MySQL
 3.Connectivity: JDBC (Java Database Connectivity)
 4.IDE: IntelliJ IDEA 
 
- ✨ Key Features
+ Key Features
 User Authentication: Secure login and registration for bidders and sellers.
  Live Bidding Logic:Real-time validation to ensure new bids are higher than the current maximum bid.
  Item Management: Sellers can add items with descriptions, starting prices, and end times.
